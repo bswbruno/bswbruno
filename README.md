@@ -31,8 +31,6 @@ Paralelamente, desenvolvo projetos em **Front-End**, com foco em:
 E estou evoluindo para Back-End com:
 
 - Java (em estudo)
-- Kotlin (em estudo)
-- Node.js
 - SQL
 - Git / GitHub
 
