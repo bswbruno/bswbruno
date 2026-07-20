@@ -1,149 +1,156 @@
-<h1 align="center">👋 Olá, eu sou o Bruno dos Santos</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/wanderley-bruno/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+# 👋 Olá, eu sou o Bruno Santos
+
+### Analista de Sistemas • Desenvolvedor Java • Implantação de Sistemas Hospitalares
+
+<p>
+  <a href="https://www.linkedin.com/in/wanderley-bruno/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/nobru_dev/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+  <a href="https://bswbruno.github.io/portifolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
- 
+
+  
 </p>
 
-<p align="center">
-  <b>Analista de Sistemas • Implantador de Sistemas • Desenvolvedor Front-End • Em evolução para Back-End</b>
-</p>
+</div>
 
 ---
 
-## 🚀 Sobre mim
+# 💻 Tecnologias
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e atuo profissionalmente com **implantação de sistemas hospitalares**, análise de requisitos, parametrização, testes funcionais e treinamento de usuários.  
-Tenho experiência real em **suporte técnico, validação de fluxos, interfaces de sistemas** e comunicação direta com equipes técnicas e operacionais.
+### Back-End
 
-Paralelamente, desenvolvo projetos em **Front-End**, com foco em:
-
-- HTML5, CSS3, SCSS  
-- JavaScript (ES6+)  
-- React Native  
-- Responsividade e UX básico  
-
-E estou evoluindo para Back-End com:
-
-- Java (em estudo)
+- Java
+- Spring Boot (estudando)
 - SQL
-- Git / GitHub
+- PostgreSQL
+- APIs REST
+- Maven
 
-Sou dedicado, comunicativo e sempre buscando aprimorar meu trabalho tanto tecnicamente quanto profissionalmente.
+### Front-End
+
+- HTML5
+- CSS3
+- JavaScript
+- React Native
+
+### Ferramentas
+
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+- Figma
+- Power BI
 
 ---
 
-## 🌐 Portfólio
+# 🚀 Projetos em Destaque
 
-👉 **Acesse meu portfólio completo:**  
+## 💼 Portfólio
+
+Meu portfólio profissional com informações sobre minha trajetória, habilidades e projetos desenvolvidos.
+
 🔗 https://bswbruno.github.io/portifolio/
 
 ---
 
-## 💻 Tecnologias que utilizo
+## 📊 Gerador de Dados
 
-### **Front-End**
-- HTML5  
-- CSS3 / SCSS  
-- JavaScript ES6+  
-- React Native  
-- Design Responsivo  
-- Acessibilidade básica  
-- Animações e microinterações  
+Extensão para Google Chrome destinada à geração de dados fictícios para testes de sistemas.
 
-### **Back-End (em evolução)**
-- Java  
-- Kotlin  
-- Node.js  
-- SQL  
-- APIs REST  
+Tecnologias:
 
-### **Ferramentas**
-- Git e GitHub  
-- VSCode  
-- Figma  
-- Excel / Dashboards  
-- Power BI  
+- JavaScript
+- HTML
+- CSS
 
 ---
 
-## 🧩 Projetos em Destaque
+## 🎲 SorteioPro
 
-### 🔥 **Landing Page Pessoal**
-Interface moderna com animações, tema claro/escuro, variáveis CSS, design responsivo e transições fluidas.
+Aplicação web para realização de sorteios personalizados.
 
-### 📊 **Dashboard Financeiro**
-Cards dinâmicos, organização de dados, estrutura responsiva e design intuitivo.
+Tecnologias:
 
-### 📱 **App Mobile com React Native**
-Telas responsivas, componentes reutilizáveis e organização estruturada.
-
-### 💼 **Outros projetos**
-Disponíveis no portfólio e nos repositórios do GitHub.
+- HTML
+- CSS
+- JavaScript
 
 ---
 
-## 🏢 Experiência Profissional
+## 📚 Exercícios Java
 
-### **Implantador de Sistemas — Vitai Soluções Ltda (2025 - Atual)**
-- Parametrização e configuração de sistema hospitalar.  
-- Análise e documentação de requisitos.  
-- Criação e validação de fluxos operacionais.  
-- Testes funcionais em ambiente de homologação.  
-- Treinamento completo por setor e especialidade.  
-- Acompanhamento pós-implantação e resolução de incidentes.
-
-### **Técnico de Informática 1B — Empresa Pública de Saúde (Rio Saúde)**
-- Suporte técnico aos usuários.  
-- Implantação e capacitação em sistemas hospitalares.  
-- Instalação de impressoras em rede, softwares e drivers.  
-- Manutenção de equipamentos.
-
-### **HelpDesk / Técnico de Informática — Vitai Soluções**
-- Atendimento e resolução de chamados.  
-- Suporte ao usuário final.  
-- Instalação e manutenção de hardware e software.  
-
-### **Experiências anteriores**
-- Recepcionista — UPA Magalhães Bastos  
-- Técnico de Informática — Ortobom (relatórios, dashboards e manutenção)  
-- Atendente — Renascença Empreendimentos  
+Repositório dedicado aos estudos da linguagem Java, contendo exercícios de lógica, orientação a objetos e fundamentos da linguagem.
 
 ---
 
-## 🎓 Formação
+# 🏢 Experiência Profissional
 
-**Análise e Desenvolvimento de Sistemas**  
-Universidade Cândido Mendes — Concluído em 2023
+## Analista de Sistemas / Implantação de Sistemas Hospitalares
 
----
+Atuação em:
 
-## 📚 Cursos e Certificações
-
-- Bootcamp Santander — Back-End com Java (em andamento)  
-- Git e GitHub — DIO  
-- Fundamentos da Linguagem Java — DIO  
-- Estruturas de Controle em Java — DIO  
-- HTML e CSS — Alura  
-- Power BI — Udemy  
-- Redes / Infra — Prime Cursos, Abeline  
-- LEAN Six Sigma — FM2S  
+- Levantamento de requisitos
+- Parametrização de sistemas
+- Homologação
+- Testes funcionais
+- Treinamento de usuários
+- Documentação técnica
+- Suporte pós-implantação
 
 ---
 
-## 🤝 Contato
+# 🎓 Formação
 
-📞 **Telefone:** (21) 98048-8310  
-🔗 **LinkedIn:** https://www.linkedin.com/in/wanderley-bruno/  
-🌐 **Portfólio:** https://bswbruno.github.io/portifolio/  
+**Análise e Desenvolvimento de Sistemas**
+
+Universidade Cândido Mendes
+
+Conclusão: 2023
 
 ---
 
-<p align="center">
-  Obrigado por visitar meu perfil! Se quiser trocar uma ideia sobre tecnologia, estou à disposição. 🚀
-</p>
+# 📚 Estudos Atuais
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+- Java
+- Spring Boot
+- PostgreSQL
+- APIs REST
+- Git
+- Docker
+- Testes Unitários
+
+---
+
+# 📜 Certificações
+
+- Bootcamp Santander Back-End Java
+- Git e GitHub
+- Fundamentos da Linguagem Java
+- Estruturas de Controle em Java
+- HTML e CSS
+- Power BI
+- Lean Six Sigma
+
+---
+
+# 📈 Objetivo Profissional
+
+Busco oportunidades como Desenvolvedor Java Júnior, onde eu possa aplicar minha experiência em análise de sistemas, aprender com equipes experientes e evoluir continuamente no desenvolvimento de software.
+
+---
+
+# 📫 Contato
+
+📧 Email : wanderley.bruno@gmail.com
+
+💼 LinkedIn : https://www.linkedin.com/in/wanderley-bruno/
+
+🌐 Portfólio : https://bswbruno.github.io/portifolio/
