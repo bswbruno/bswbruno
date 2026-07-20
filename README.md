@@ -20,6 +20,12 @@
 
 ---
 
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atuo profissionalmente com implantação de sistemas hospitalares, análise de requisitos, parametrização, testes funcionais, homologações e treinamento de usuários.
+
+Atualmente estou direcionando minha carreira para o **desenvolvimento Back-End com Java**, desenvolvendo projetos próprios para aplicar boas práticas, APIs REST, banco de dados relacionais e versionamento de código.
+
+---
+
 # 💻 Tecnologias
 
 ### Back-End
