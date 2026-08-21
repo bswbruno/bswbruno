@@ -1,162 +1,185 @@
-<div align="center">
-
 # 👋 Olá, eu sou o Bruno Santos
 
 ### Analista de Sistemas • Desenvolvedor Java • Implantação de Sistemas Hospitalares
 
-<p>
-  <a href="https://www.linkedin.com/in/wanderley-bruno/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atuo profissionalmente com **implantação e análise de sistemas hospitalares**, trabalhando com levantamento de requisitos, parametrização, testes funcionais, homologações, documentação e treinamento de usuários.
 
-  <a href="https://bswbruno.github.io/portifolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  </a>
-
-  
-</p>
-
-</div>
+Paralelamente, venho direcionando minha carreira para o **desenvolvimento de software**, com foco em **Java, Spring Boot, APIs REST e bancos de dados relacionais**, desenvolvendo projetos próprios para colocar em prática conceitos de arquitetura, organização de código, versionamento e desenvolvimento de aplicações.
 
 ---
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e atuo profissionalmente com implantação de sistemas hospitalares, análise de requisitos, parametrização, testes funcionais, homologações e treinamento de usuários.
+## 🚀 Projetos em Destaque
 
-Atualmente estou direcionando minha carreira para o **desenvolvimento Back-End com Java**, desenvolvendo projetos próprios para aplicar boas práticas, APIs REST, banco de dados relacionais e versionamento de código.
+### 💰 FinPessoal
 
----
+Aplicação web e **PWA para gerenciamento de finanças pessoais**, desenvolvida com foco em organização financeira, responsividade e experiência de uso em dispositivos móveis.
 
-# 💻 Tecnologias
+O projeto simula uma aplicação real, com diferentes módulos e funcionalidades para gerenciamento das finanças do usuário.
 
-### Back-End
+**Principais funcionalidades:**
 
-- Java
-- Spring Boot (estudando)
-- SQL
-- PostgreSQL
-- APIs REST
-- Maven
+* 📊 Dashboard financeiro
+* 💰 Controle de receitas e despesas
+* 💳 Gerenciamento de cartões
+* 🏦 Gerenciamento de contas
+* 🏠 Controle de patrimônios
+* 📈 Relatórios financeiros
+* 📱 Interface responsiva
+* ⚡ Aplicação PWA
+* 💾 Persistência de dados no navegador
+* 🔄 Sistema de atualização da aplicação
 
-### Front-End
+**Tecnologias:**
 
-- HTML5
-- CSS3
-- JavaScript
-- React Native
+`HTML5` `CSS3` `JavaScript` `PWA` `Git` `GitHub Pages`
 
-### Ferramentas
+🔗 **Aplicação:** https://bswbruno.github.io/FinPessoal/
 
-- Git
-- GitHub
-- VS Code
-- IntelliJ IDEA
-- Figma
-- Power BI
+🔗 **Repositório:** https://github.com/bswbruno/FinPessoalPort
 
 ---
 
-# 🚀 Projetos em Destaque
+### 💼 Portfólio
 
-## 💼 Portfólio
+Meu portfólio profissional, desenvolvido para apresentar minha trajetória, conhecimentos, projetos e evolução como desenvolvedor.
 
-Meu portfólio profissional com informações sobre minha trajetória, habilidades e projetos desenvolvidos.
-
-🔗 https://bswbruno.github.io/portifolio/
+🔗 **Acessar:** https://bswbruno.github.io/portifolio/
 
 ---
 
-## 📊 Gerador de Dados
+### 📊 Gerador de Dados
 
-Extensão para Google Chrome destinada à geração de dados fictícios para testes de sistemas.
+Extensão para Google Chrome desenvolvida para geração de dados fictícios, facilitando testes e validações durante o desenvolvimento e utilização de sistemas.
 
-Tecnologias:
+**Tecnologias:**
 
-- JavaScript
-- HTML
-- CSS
+`JavaScript` `HTML5` `CSS3`
 
 ---
 
-## 🎲 SorteioPro
+### 🎲 SorteioPro
 
 Aplicação web para realização de sorteios personalizados.
 
-Tecnologias:
+**Tecnologias:**
 
-- HTML
-- CSS
-- JavaScript
+`HTML5` `CSS3` `JavaScript`
 
 ---
 
-## 📚 Exercícios Java
+### ☕ Projetos e Estudos Java
 
-Repositório dedicado aos estudos da linguagem Java, contendo exercícios de lógica, orientação a objetos e fundamentos da linguagem.
+Repositórios desenvolvidos durante meus estudos de Java, contendo exercícios e projetos voltados para lógica de programação, orientação a objetos, APIs e desenvolvimento Back-End.
 
----
+**Tecnologias:**
 
-# 🏢 Experiência Profissional
-
-## Analista de Sistemas / Implantação de Sistemas Hospitalares
-
-Atuação em:
-
-- Levantamento de requisitos
-- Parametrização de sistemas
-- Homologação
-- Testes funcionais
-- Treinamento de usuários
-- Documentação técnica
-- Suporte pós-implantação
+`Java` `Maven` `Spring Boot` `PostgreSQL`
 
 ---
 
-# 🎓 Formação
+## 💻 Tecnologias
+
+### Back-End
+
+* ☕ Java
+* 🌱 Spring Boot
+* 🔗 APIs REST
+* 🗄️ SQL
+* 🐘 PostgreSQL
+* 📦 Maven
+
+### Front-End
+
+* HTML5
+* CSS3
+* JavaScript
+* React
+
+### Ferramentas
+
+* Git
+* GitHub
+* Azure DevOps
+* IntelliJ IDEA
+* VS Code
+* Figma
+* Power BI
+
+---
+
+## 🏢 Experiência Profissional
+
+### Analista de Sistemas / Implantação de Sistemas Hospitalares
+
+Atuação profissional envolvendo:
+
+* Levantamento e análise de requisitos
+* Parametrização de sistemas
+* Testes funcionais
+* Homologação
+* Identificação e análise de problemas
+* Documentação técnica
+* Treinamento de usuários
+* Suporte pós-implantação
+* Acompanhamento de implantações
+
+A experiência com implantação também contribui para minha atuação no desenvolvimento, principalmente na compreensão de **requisitos, regras de negócio, processos e necessidades dos usuários**.
+
+---
+
+## 🎓 Formação
 
 **Análise e Desenvolvimento de Sistemas**
 
 Universidade Cândido Mendes
 
-Conclusão: 2023
+Conclusão: **2023**
 
 ---
 
-# 📚 Estudos Atuais
+## 📚 Estudos Atuais
 
 Atualmente estou aprofundando meus conhecimentos em:
 
-- Java
-- Spring Boot
-- PostgreSQL
-- APIs REST
-- Git
-- Docker
-- Testes Unitários
+* Java
+* Spring Boot
+* APIs REST
+* PostgreSQL
+* JPA / Hibernate
+* Testes Unitários
+* Docker
+* Git e GitHub
+* Arquitetura de aplicações
+* Desenvolvimento Full Stack
 
 ---
 
-# 📜 Certificações
+## 📜 Certificações e Cursos
 
-- Bootcamp Santander Back-End Java
-- Git e GitHub
-- Fundamentos da Linguagem Java
-- Estruturas de Controle em Java
-- HTML e CSS
-- Power BI
-- Lean Six Sigma
-
----
-
-# 📈 Objetivo Profissional
-
-Busco oportunidades como Desenvolvedor Java Júnior, onde eu possa aplicar minha experiência em análise de sistemas, aprender com equipes experientes e evoluir continuamente no desenvolvimento de software.
+* Bootcamp Santander Back-End Java
+* Git e GitHub
+* Fundamentos da Linguagem Java
+* Estruturas de Controle em Java
+* HTML e CSS
+* Power BI
+* Lean Six Sigma
 
 ---
 
-# 📫 Contato
+## 🎯 Objetivo Profissional
 
-📧 Email : wanderley.bruno@gmail.com
+Busco oportunidades na área de **Desenvolvimento de Software**, especialmente como **Desenvolvedor Java Júnior**, utilizando minha experiência em análise de sistemas e regras de negócio para contribuir com equipes de desenvolvimento e continuar evoluindo tecnicamente.
 
-💼 LinkedIn : https://www.linkedin.com/in/wanderley-bruno/
+Meu objetivo é unir a experiência adquirida como **Analista de Sistemas** com o desenvolvimento de aplicações modernas, escaláveis e bem estruturadas.
 
-🌐 Portfólio : https://bswbruno.github.io/portifolio/
+---
+
+## 📫 Contato
+
+📧 **Email:** [wanderley.bruno@gmail.com](mailto:wanderley.bruno@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/wanderley-bruno/
+
+🌐 **Portfólio:** https://bswbruno.github.io/portifolio/
+
+🐙 **GitHub:** https://github.com/bswbruno
