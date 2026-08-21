@@ -67,16 +67,6 @@ Aplicação web para realização de sorteios personalizados.
 
 ---
 
-### ☕ Projetos e Estudos Java
-
-Repositórios desenvolvidos durante meus estudos de Java, contendo exercícios e projetos voltados para lógica de programação, orientação a objetos, APIs e desenvolvimento Back-End.
-
-**Tecnologias:**
-
-`Java` `Maven` `Spring Boot` `PostgreSQL`
-
----
-
 ## 💻 Tecnologias
 
 ### Back-End
@@ -86,14 +76,12 @@ Repositórios desenvolvidos durante meus estudos de Java, contendo exercícios e
 * 🔗 APIs REST
 * 🗄️ SQL
 * 🐘 PostgreSQL
-* 📦 Maven
 
 ### Front-End
 
 * HTML5
 * CSS3
 * JavaScript
-* React
 
 ### Ferramentas
 
@@ -102,7 +90,6 @@ Repositórios desenvolvidos durante meus estudos de Java, contendo exercícios e
 * Azure DevOps
 * IntelliJ IDEA
 * VS Code
-* Figma
 * Power BI
 
 ---
